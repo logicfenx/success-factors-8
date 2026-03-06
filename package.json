@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/success-factors-8",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a success-factors-8",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/success-factors-8.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://bitcu.co/success-factors-8/"
+    },
+    "homepage": "https://bitcu.co/success-factors-8/"
+}
